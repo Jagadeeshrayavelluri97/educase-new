@@ -24,7 +24,7 @@ This is a pixel-perfect React JS application built using **Vite** and **Tailwind
 
 - **React JS** 
 - **Tailwind CSS** for styling
-- **React Router** for navigation (if routing is used)
+- **React Router** for navigation 
 - **CDN hosted dependencies** (React, ReactDOM)
 - **Hosted on**: Vercel
 
